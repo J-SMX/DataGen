@@ -1,5 +1,3 @@
-# src/se_datagen/engine/scenarios.py
-
 from __future__ import annotations
 import pandas as pd
 import numpy as np
